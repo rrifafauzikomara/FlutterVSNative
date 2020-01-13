@@ -13,4 +13,4 @@ This repo will showing how different size of APK between Flutter and Native Andr
 
 *Note : MB is Megabyte
 
-<img src="Screenshoot/result.png" width="1410" height="242">
+<img src="Screenshoot/result.png" width="1000" height="200">
