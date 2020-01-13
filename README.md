@@ -12,3 +12,5 @@ This repo will showing how different size of APK between Flutter and Native Andr
 - Native  : Debug = 2.4 MB and Release = 2.1 MB
 
 *Note : MB is Megabyte
+
+<img src="Screenshoot/result.png" width="280" height="100">
