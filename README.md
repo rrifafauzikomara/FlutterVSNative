@@ -16,3 +16,6 @@ This repo will showing how different size of APK between Flutter and Native Andr
 <img src="Screenshoot/result.png" width="1000" height="200">
 
 *Note : In this sample apps, I don't use any image / asset between Flutter and Android. I just build some UI in XML file for Android, and build some Widget for UI using StatelessWidget in Flutter.
+
+### Contribute
+Feel free to contribute or create a new pull request if you have a solution to reduce the size of the Flutter apk.
